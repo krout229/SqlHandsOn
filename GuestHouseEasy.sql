@@ -1,5 +1,4 @@
---Guest House Hands-On
---Easy
+--Guest House Hands-On Easy
 --1
 SELECT booking_date,nights
 FROM booking 
